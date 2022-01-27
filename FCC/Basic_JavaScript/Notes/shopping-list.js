@@ -1,3 +1,6 @@
+/**
+ * Nesting arrays in arrays.
+ */
 const myList = [
   ["Chocolate Bar", 25],
   ["MacBook Pro", 1],
