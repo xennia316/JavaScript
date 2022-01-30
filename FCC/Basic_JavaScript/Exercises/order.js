@@ -1,0 +1,18 @@
+/**
+ * @xennia316
+ * @param {*} val 
+ * @returns 
+ */
+function orderMyLogic(val) {
+  if (val < 5) {
+    return "Less than 5";
+  }
+ else if (val < 10) {
+    return "Less than 10";
+  } 
+   else {
+    return "Greater than or equal to 10";
+  }
+}
+//Preferable to write the if statements with the smallesst number in order to achieve correct results
+orderMyLogic(7);
