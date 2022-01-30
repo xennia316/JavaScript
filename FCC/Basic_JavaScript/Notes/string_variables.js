@@ -1,6 +1,6 @@
 /**
  * initializing string variable
  */
-var mhyName;
+var myName;
 
 myName = "your name";
