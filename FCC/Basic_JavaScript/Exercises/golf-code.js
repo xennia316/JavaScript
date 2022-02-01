@@ -33,7 +33,7 @@ else
 {
   return names[6];
 }
-  return "Change Me";
+  return "strokes";
   // Only change code above this line
 }
 
