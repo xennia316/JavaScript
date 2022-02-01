@@ -23,7 +23,7 @@ else if(num >= 20)
 {
   return "Huge"
 }
-  return "Change Me";
+  return "Complete";
 }
 
 testSize(7);
