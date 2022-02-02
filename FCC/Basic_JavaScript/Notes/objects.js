@@ -8,3 +8,6 @@
  };
  
  console.log(friends);
+//Using the (.) notation
+ let nameValue = friends.name;
+ console.log(nameValue);
