@@ -3,7 +3,7 @@
  * Creating objects
  */
  const friends = {
-    name: [['Sally'], ['Edwin'], ['acha']],
+    name: [['Sally'], ['Edwin'], ['Acha Rha\'ah']],
     age: [19, 20, 19],
  };
  
@@ -11,3 +11,6 @@
 //Using the (.) notation
  let nameValue = friends.name;
  console.log(nameValue);
+//using [] notation
+ let ageNew = friends["name"][2];
+ console.log(ageNew);
