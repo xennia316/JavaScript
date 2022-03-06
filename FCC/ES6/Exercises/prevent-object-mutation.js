@@ -1,3 +1,7 @@
+/**
+ *By xennia316
+ 6th March 2022
+ */
 function freezeObj() {
   const MATH_CONSTANTS = {
     PI: 3.14
