@@ -1,5 +1,6 @@
 let today = new Date();
 let day = today.getDay();
+console.log(day);
 
 let daylist = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 console.log("Today is: " + daylist[day] + '.');
@@ -15,7 +16,7 @@ if (hour === 0 && prepand === 'PM') {
         prepand = 'Noon';
     }
     else {
-
+        
     }
 }
 if (hour === 0 && prepand === ' AM ') {
