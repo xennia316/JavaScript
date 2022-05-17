@@ -5,4 +5,4 @@
 const SONIA = 15;
 const THELMA = 3;
 
-let remainder = SONIA % THELMA;
+let rem = SONIA % THELMA; //remainder
