@@ -7,3 +7,6 @@
  let NEW = 2 / 1;
 
  console.log(FIRST);
+ console.warn("Stop right there", myVar);
+ console.clear();
+ console.timeStamp(String);
